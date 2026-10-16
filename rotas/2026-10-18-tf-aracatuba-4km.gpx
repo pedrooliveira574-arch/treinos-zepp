@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Claude" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>TF Aracatuba Menin 4km</name></metadata>
+  <trk>
+    <name>TF Aracatuba Menin 4km</name>
+    <trkseg>
+      <trkpt lat="-21.179529" lon="-50.45411"></trkpt>
+      <trkpt lat="-21.180585" lon="-50.452831"></trkpt>
+      <trkpt lat="-21.182001" lon="-50.451133"></trkpt>
+      <trkpt lat="-21.182102" lon="-50.451094"></trkpt>
+      <trkpt lat="-21.182285" lon="-50.451067"></trkpt>
+      <trkpt lat="-21.182395" lon="-50.450973"></trkpt>
+      <trkpt lat="-21.182429" lon="-50.450866"></trkpt>
+      <trkpt lat="-21.182428" lon="-50.450763"></trkpt>
+      <trkpt lat="-21.182269" lon="-50.450698"></trkpt>
+      <trkpt lat="-21.182075" lon="-50.450767"></trkpt>
+      <trkpt lat="-21.181899" lon="-50.451048"></trkpt>
+      <trkpt lat="-21.181705" lon="-50.451272"></trkpt>
+      <trkpt lat="-21.179456" lon="-50.454037"></trkpt>
+      <trkpt lat="-21.177354" lon="-50.456598"></trkpt>
+      <trkpt lat="-21.174703" lon="-50.459719"></trkpt>
+      <trkpt lat="-21.172264" lon="-50.46262"></trkpt>
+      <trkpt lat="-21.171058" lon="-50.46407"></trkpt>
+      <trkpt lat="-21.170503" lon="-50.464727"></trkpt>
+      <trkpt lat="-21.170421" lon="-50.46487"></trkpt>
+      <trkpt lat="-21.170503" lon="-50.464824"></trkpt>
+      <trkpt lat="-21.171646" lon="-50.4635"></trkpt>
+      <trkpt lat="-21.173844" lon="-50.460966"></trkpt>
+      <trkpt lat="-21.176933" lon="-50.45727"></trkpt>
+      <trkpt lat="-21.179479" lon="-50.454198"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

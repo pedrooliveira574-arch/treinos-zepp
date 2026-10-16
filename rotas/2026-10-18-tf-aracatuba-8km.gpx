@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Claude" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>TF Aracatuba Menin 8km</name></metadata>
+  <trk>
+    <name>TF Aracatuba Menin 8km</name>
+    <trkseg>
+      <trkpt lat="-21.179536" lon="-50.454097"></trkpt>
+      <trkpt lat="-21.180585" lon="-50.452831"></trkpt>
+      <trkpt lat="-21.18199" lon="-50.45114"></trkpt>
+      <trkpt lat="-21.182178" lon="-50.451092"></trkpt>
+      <trkpt lat="-21.182391" lon="-50.450993"></trkpt>
+      <trkpt lat="-21.182521" lon="-50.450826"></trkpt>
+      <trkpt lat="-21.182613" lon="-50.450775"></trkpt>
+      <trkpt lat="-21.18427" lon="-50.449558"></trkpt>
+      <trkpt lat="-21.185517" lon="-50.448683"></trkpt>
+      <trkpt lat="-21.187042" lon="-50.447791"></trkpt>
+      <trkpt lat="-21.188691" lon="-50.4473"></trkpt>
+      <trkpt lat="-21.189982" lon="-50.447042"></trkpt>
+      <trkpt lat="-21.190317" lon="-50.446912"></trkpt>
+      <trkpt lat="-21.19096" lon="-50.446619"></trkpt>
+      <trkpt lat="-21.191378" lon="-50.446424"></trkpt>
+      <trkpt lat="-21.193024" lon="-50.446343"></trkpt>
+      <trkpt lat="-21.193969" lon="-50.446297"></trkpt>
+      <trkpt lat="-21.194776" lon="-50.446307"></trkpt>
+      <trkpt lat="-21.194776" lon="-50.445709"></trkpt>
+      <trkpt lat="-21.193926" lon="-50.445631"></trkpt>
+      <trkpt lat="-21.193877" lon="-50.44466"></trkpt>
+      <trkpt lat="-21.19386" lon="-50.442992"></trkpt>
+      <trkpt lat="-21.193727" lon="-50.442852"></trkpt>
+      <trkpt lat="-21.193342" lon="-50.442435"></trkpt>
+      <trkpt lat="-21.193049" lon="-50.442012"></trkpt>
+      <trkpt lat="-21.192723" lon="-50.441103"></trkpt>
+      <trkpt lat="-21.192461" lon="-50.440445"></trkpt>
+      <trkpt lat="-21.191319" lon="-50.440564"></trkpt>
+      <trkpt lat="-21.191407" lon="-50.445681"></trkpt>
+      <trkpt lat="-21.191387" lon="-50.446178"></trkpt>
+      <trkpt lat="-21.190498" lon="-50.446621"></trkpt>
+      <trkpt lat="-21.189861" lon="-50.44685"></trkpt>
+      <trkpt lat="-21.188051" lon="-50.447314"></trkpt>
+      <trkpt lat="-21.187405" lon="-50.447522"></trkpt>
+      <trkpt lat="-21.186109" lon="-50.448092"></trkpt>
+      <trkpt lat="-21.185494" lon="-50.448457"></trkpt>
+      <trkpt lat="-21.184581" lon="-50.449097"></trkpt>
+      <trkpt lat="-21.182414" lon="-50.450679"></trkpt>
+      <trkpt lat="-21.182298" lon="-50.450705"></trkpt>
+      <trkpt lat="-21.182159" lon="-50.450711"></trkpt>
+      <trkpt lat="-21.182092" lon="-50.450761"></trkpt>
+      <trkpt lat="-21.181955" lon="-50.450996"></trkpt>
+      <trkpt lat="-21.181689" lon="-50.451339"></trkpt>
+      <trkpt lat="-21.179456" lon="-50.454037"></trkpt>
+      <trkpt lat="-21.177354" lon="-50.456598"></trkpt>
+      <trkpt lat="-21.174703" lon="-50.459719"></trkpt>
+      <trkpt lat="-21.172264" lon="-50.46262"></trkpt>
+      <trkpt lat="-21.171058" lon="-50.46407"></trkpt>
+      <trkpt lat="-21.170503" lon="-50.464727"></trkpt>
+      <trkpt lat="-21.17045" lon="-50.464787"></trkpt>
+      <trkpt lat="-21.170365" lon="-50.464941"></trkpt>
+      <trkpt lat="-21.170503" lon="-50.464824"></trkpt>
+      <trkpt lat="-21.171646" lon="-50.4635"></trkpt>
+      <trkpt lat="-21.173844" lon="-50.460966"></trkpt>
+      <trkpt lat="-21.176933" lon="-50.45727"></trkpt>
+      <trkpt lat="-21.179496" lon="-50.454149"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
